@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180003242440",
+    "project_id": "notifflutter-f0578",
+    "storage_bucket": "notifflutter-f0578.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180003242440:android:705487ce086242c3f780fd",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir_pemob2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfAebpdD3CWuue2dbpq2u2Gyk1g0siY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
